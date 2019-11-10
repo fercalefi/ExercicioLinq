@@ -1,0 +1,11 @@
+C:\Users\Calefi Notebook\source\repos\Exercicio128\Exercicio128\obj\Debug\netcoreapp2.1\Exercicio128.csprojAssemblyReference.cache
+C:\Users\Calefi Notebook\source\repos\Exercicio128\Exercicio128\obj\Debug\netcoreapp2.1\Exercicio128.csproj.CoreCompileInputs.cache
+C:\Users\Calefi Notebook\source\repos\Exercicio128\Exercicio128\obj\Debug\netcoreapp2.1\Exercicio128.AssemblyInfoInputs.cache
+C:\Users\Calefi Notebook\source\repos\Exercicio128\Exercicio128\obj\Debug\netcoreapp2.1\Exercicio128.AssemblyInfo.cs
+C:\Users\Calefi Notebook\source\repos\Exercicio128\Exercicio128\bin\Debug\netcoreapp2.1\Exercicio128.deps.json
+C:\Users\Calefi Notebook\source\repos\Exercicio128\Exercicio128\bin\Debug\netcoreapp2.1\Exercicio128.runtimeconfig.json
+C:\Users\Calefi Notebook\source\repos\Exercicio128\Exercicio128\bin\Debug\netcoreapp2.1\Exercicio128.runtimeconfig.dev.json
+C:\Users\Calefi Notebook\source\repos\Exercicio128\Exercicio128\bin\Debug\netcoreapp2.1\Exercicio128.dll
+C:\Users\Calefi Notebook\source\repos\Exercicio128\Exercicio128\bin\Debug\netcoreapp2.1\Exercicio128.pdb
+C:\Users\Calefi Notebook\source\repos\Exercicio128\Exercicio128\obj\Debug\netcoreapp2.1\Exercicio128.dll
+C:\Users\Calefi Notebook\source\repos\Exercicio128\Exercicio128\obj\Debug\netcoreapp2.1\Exercicio128.pdb
